@@ -256,6 +256,7 @@
 				DEVELOPMENT_TEAM = BB9NBC38G8;
 				INFOPLIST_FILE = ToDoList_Mac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = "B0nty.ToDoList-Mac";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -270,6 +271,7 @@
 				DEVELOPMENT_TEAM = BB9NBC38G8;
 				INFOPLIST_FILE = ToDoList_Mac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = "B0nty.ToDoList-Mac";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
